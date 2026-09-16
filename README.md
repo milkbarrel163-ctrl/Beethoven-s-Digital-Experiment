@@ -26,6 +26,8 @@ The project explores connection between music creation, chart generation and int
 - pygame_gui
 
 ## Project Structure
+
+```text
 |————newgame.py # Main entry point, the main file of the project
 |
 |————chart.py #chart generation
@@ -45,7 +47,7 @@ The project explores connection between music creation, chart generation and int
 |————data.py # data loading and storaging
 |
 └———audio/ # Sound assets and instrument samples
-
+```
 
 ## Future Improvements
 - Better chart generation algorithms
